@@ -12,8 +12,6 @@
   ![Snake animation](https://github.com/ellenmily/ellenmily/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![ellenmily GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenmily&show_icons=true&theme=radical)
-
 ## | Tecnologia que uso no meu dia
 
 <div style="display: inline_block"><br>
